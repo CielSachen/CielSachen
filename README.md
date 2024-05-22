@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ciel and I'm a high school student, from De La Santiago Salle Zobel School.</p>
+<p align="left">My name is Ciel and I'm a high school student, formerly from De La Santiago Salle Zobel School, hopefully from De La Salle University in the future. 💞</p>
 
 ###
 
