@@ -1,62 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hello World!
 
-###
-
-<p align="left">My name is Ciel and I'm a high school student, formerly from De La Santiago Salle Zobel School, hopefully from De La Salle University in the future. 💞</p>
-
-###
+My name is Ciel (A.K.A. Seoyun); I'm studying at De La Salle University. I am currently studying computer science and majoring in network and information security. I began coding in high school and have continued to do so ever since.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CielSachen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CielSachen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CielSachen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CielSachen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
 </div>
 
-###
+## About Me
 
-<h2 align="left">About me</h2>
+- ✨ I've been creating bugs since 2020!
+- 📚 I'm currently learning the C language!
+- 🎯 My goals are:
+  - To create a Python-based project;
+  - To explore and learn Svelte or Vue or both; and
+  - To graduate from university.
+- 🎲 Fun facts:
+  - I'm primarily self-taught.
 
-###
+## Programming Languages Learnt From School
 
-<p align="left">✨ Creating bugs since mid-2020!<br>📚 I'm currently learning Python!<br>🎯 Goals: Create a Python project<br>🎲 Fun fact: I'm coding as a hobby; I haven't received a proper education in programming.</p>
+[![Programming Language Icons](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
 
-###
+## Self-Taught Programming Languages
 
-<h2 align="left">I code with</h2>
+[![Programming Language Icons](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
-###
+## Programming Languages I Want To Learn
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-</div>
-
-###
-
-<h2 align="left">Using</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
+[![Programming Language Icons](https://skillicons.dev/icons?i=go,sqlite,java,cpp)](https://skillicons.dev)
