@@ -1,23 +1,30 @@
-# Hello_World
+# 안녕 세계
 
-> [!CAUTION]
-> 𝐼 𝓈𝒽𝒶𝓁𝓁 𝒾𝓃𝒻𝓁𝒾𝒸𝓉 𝓉𝑒𝑒𝓃 𝑜𝓃 𝓉𝒽𝑒 𝓇𝑒𝒶𝒹𝑒𝓉𝒽'𝓇𝓈 𝒷𝓎 𝓃𝑜𝓉 𝓊𝓈𝒾𝓃𝑔 𝓉𝒽𝑒 𝓅𝓇𝑜𝓅'𝓇 𝓃𝒶𝓂𝑒𝓉𝒽 𝒸𝒶𝓈𝒾𝓃𝑔𝓈
+![College Degree](https://img.shields.io/badge/CCS-BSCS--NIS-046A38?style=flat-square)
+![Entry Year](https://img.shields.io/badge/DLSU-24-046A38?style=flat-square)
+
+A lazy university student attempting to become a **"good"** programmer in the _near_ future. Mostly familiar with the frontend, but has _some_ experience with backend as well.
+
+- Studying for a bachelors in Computer Science, majoring in Network and Information Security.
+- Trying to learn more about the Rust programming language.
+
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CielSachen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats Graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CielSachen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
 </div>
 
-## aboutme
+##
 
-- 🏫 [Bachelor of Science in Computer Science Major in Network and Information Security](https://www.dlsu.edu.ph/colleges/ccs/undergraduate-degree-programs/cs-nis/) student at [De La Salle University](https://www.dlsu.edu.ph/).
-- 🏢 Typically unemployed and broke.
-- 📚 Learning to program in Rust and planning to learn Go.
-- 💻 Working on a Java/TypeScript Tenor API wrapper.
+### Languages and Runtimes
 
-### programming_Languages_Known
+[![Languages and Runtimes](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,c,cmake,java)](https://skillicons.dev)
 
-> [!WARNING]
-> Guaranteed to know, not know how to use.
+### Libraries and Frameworks
 
-[![Programming Language Icons](https://skillicons.dev/icons?i=js,ts,py,c,java,rust)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=discordjs,react,tailwind)](https://skillicons.dev)
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
