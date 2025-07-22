@@ -1,7 +1,7 @@
 # 안녕 세계
 
 ![College Degree](https://img.shields.io/badge/CCS-BSCS--NIS-046A38)
-![Entry Year](https://img.shields.io/badge/DLSU-ID24-046A38)
+![University Batch](https://img.shields.io/badge/DLSU-ID124-046A38)
 
 A lazy university student attempting to become a **"good"** programmer in the _near_ future. Mostly familiar with the
 frontend, but has _some_ experience with backend as well.
