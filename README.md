@@ -3,11 +3,11 @@
 ![University and Batch](https://img.shields.io/badge/DLSU-ID124-046A38)
 ![College and Degree Program](https://img.shields.io/badge/CCS-BSCS--NIS-046A38)
 
-A lazy university student attempting to become a **"good"** programmer in the _near_ future. Mostly familiar with the
-frontend, but has _some_ experience with backend as well.
+A lazy university student attempting to become a **"good"** programmer. Most, if not all, of my experience is with
+frontend environments, with my primary language being JavaScript/TypeScript.
 
-- Studying for a bachelors in Computer Science, majoring in Network and Information Security.
-- Trying to learn more about the Rust programming language.
+- Studying for a bachelor's degree in Computer Science/Engineering.
+- Trying to learn the Rust programming language.
 
 ---
 
@@ -18,7 +18,7 @@ frontend, but has _some_ experience with backend as well.
     alt="Stats Graph"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CielSachen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=CielSachen&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=great-gatsby&hide_border=true"
     height="150"
     alt="Languages Graph"
   />
@@ -30,4 +30,8 @@ frontend, but has _some_ experience with backend as well.
 
 _Not necessarily super proficient in these, they're just the ones that I use._
 
-[![JS, TS, Python, Java, Go, and, Rust Icons](https://skillicons.dev/icons?i=js,ts,py,java,go,rust)](https://skillicons.dev)
+[![JS, TS, Python, Java, and, Rust](https://skillicons.dev/icons?i=js,ts,py,java,rust)](https://skillicons.dev)
+
+### Libraries & Frameworks
+
+[![discord.js, React, and, Tailwind](https://skillicons.dev/icons?i=discordjs,react,tailwind)](https://skillicons.dev)
