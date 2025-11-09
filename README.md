@@ -18,7 +18,7 @@ frontend environments, with my primary language being JavaScript/TypeScript.
     alt="Stats Graph"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=CielSachen&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=great-gatsby&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=seoyunnie&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=great-gatsby&hide_border=true"
     height="150"
     alt="Languages Graph"
   />
