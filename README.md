@@ -13,12 +13,12 @@ frontend environments, with my primary language being JavaScript/TypeScript.
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CielSachen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&custom_title=Stats"
+    src="https://github-readme-stats.vercel.app/api?username=seoyunnie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm_pink&locale=en&hide_border=true&custom_title=Stats"
     height="150"
     alt="Stats Graph"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=seoyunnie&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=great-gatsby&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=seoyunnie&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=calm_pink&hide_border=true"
     height="150"
     alt="Languages Graph"
   />
